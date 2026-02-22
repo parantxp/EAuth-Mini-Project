@@ -1,2 +1,2 @@
 # EAuth-Mini-Project
-E-Authentication project usingb QR and OTP 
+E-Authentication project using QR and OTP 
