@@ -20,15 +20,23 @@ When users select OTP login, the system generates a random OTP through the Fast2
 Technologies Used
 
 Frontend: HTML, CSS, JavaScript
+
 Backend: PHP
+
 QR Code Scanning: Instascan
+
 OTP Service: Fast2SMS API
+
 QR Code SMS Service: Sinch API
 
 Prerequisites
 
 Web server with PHP support
+
 Webcam for QR scanning
+
 Mobile phone for OTP verification
+
 Fast2SMS API key
+
 Sinch API key
